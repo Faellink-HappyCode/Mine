@@ -20,6 +20,11 @@ public class MeshOrganizer : MonoBehaviour
         UVs[5] = new Vector2(0.666f, 0.333f);
         UVs[8] = new Vector2(0.334f, 0.0f);
         UVs[9] = new Vector2(0.666f, 0.0f);
+        //back
+        UVs[6] = new Vector2(1.0f, 0.0f);
+        UVs[7] = new Vector2(0.667f, 0.0f);
+        UVs[10] = new Vector2(1.0f, 0.333f);
+        UVs[11] = new Vector2(0.667f, 0.333f);
         //bottom
         UVs[12] = new Vector2(0.0f, 0.334f);
         UVs[13] = new Vector2(0.0f, 0.666f);
