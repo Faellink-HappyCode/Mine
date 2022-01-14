@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6460516982210412142}
   m_Layer: 0
   m_Name: Castle
-  m_TagString: Untagged
+  m_TagString: cube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
