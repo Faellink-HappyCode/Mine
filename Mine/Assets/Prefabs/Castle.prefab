@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6555873347836289132}
   - component: {fileID: 7876355719651402006}
   - component: {fileID: 6460516982210412142}
+  - component: {fileID: -5753571528953111372}
   m_Layer: 0
   m_Name: Castle
   m_TagString: cube
@@ -95,3 +96,16 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &-5753571528953111372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 257258619352889327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ba59e8e9083ef48b123089bce6d646, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blockSprite: {fileID: 21300000, guid: ca935545bcb96044b9e58e689305bc3c, type: 3}

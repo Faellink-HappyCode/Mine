@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7340098928329064194}
   - component: {fileID: 1919395089863915686}
   - component: {fileID: -739996270492889480}
+  - component: {fileID: -2582853231937995752}
   m_Layer: 0
   m_Name: Tree
   m_TagString: cube
@@ -108,3 +109,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4891a979a7b50e3488462a4da722dab3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-2582853231937995752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8614791462501328670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0ba59e8e9083ef48b123089bce6d646, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blockSprite: {fileID: 21300000, guid: da4a05ae8ead2d04c86bc79a0be195e4, type: 3}
